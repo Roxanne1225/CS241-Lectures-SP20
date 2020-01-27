@@ -1,5 +1,6 @@
 # Welcome to SP2020!
 ```C
+
 // First, can you guess which lyrics have been transformed into this C-like system code?
 char q[] = "Do you wanna build a C99 program?";
 #define or "go debugging with gdb?"
